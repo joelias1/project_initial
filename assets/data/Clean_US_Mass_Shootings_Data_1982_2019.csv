@@ -1,0 +1,125 @@
+case,city_state,site,date,week_day,month,year,injured,fatalities,total_victims,age_of_shooter,prior_signs_mental_health_issues,weapons_obtained_legally,race,gender,longitude,latitude
+Molson Coors shooting,"Milwaukee, Wisconsin",Workplace,2020-02-26,Wednesday,2,2020,0,5,5,51,Unknown,Unknown,Black,Male,-87.962537,43.044511
+Jersey City kosher market shooting,"Jersey City, New Jersey",Other,2019-12-10,Tuesday,12,2019,3,4,7,-,Unknown,Unknown,Black,Other/Unknown,-74.083609,40.707363
+Pensacola Naval base shooting,"Pensacola, Florida",Military,2019-12-06,Friday,12,2019,8,3,11,-,Unknown,Unknown,Other/Unknown,Male,-87.288567,30.364707
+Odessa-Midland shooting spree,"Odessa, Texas",Other,2019-08-31,Saturday,8,2019,25,7,32,36,Yes,Unknown,White,Male,-102.2796,31.925974
+Dayton entertainment district shooting,"Dayton, Ohio",Other,2019-08-04,Sunday,8,2019,27,9,36,24,Unknown,Yes,White,Male,-84.184947,39.757312
+El Paso Walmart mass shooting,"El Paso, Texas",Workplace,2019-08-03,Saturday,8,2019,26,22,48,21,Unknown,Yes,White,Male,-106.375655,31.771068
+Gilroy garlic festival shooting,"Gilroy, California",Other,2019-07-28,Sunday,7,2019,12,3,15,19,Unknown,Yes,Other/Unknown,Male,-121.584819,36.997191
+Virginia Beach municipal building shooting,"Virginia Beach, Virginia",Workplace,2019-05-31,Friday,5,2019,4,12,16,40,Unknown,Yes,Black,Male,-76.060378,36.75442
+Harry Pratt Co. warehouse shooting,"Aurora, Illinois",Workplace,2019-02-15,Friday,2,2019,6,5,11,45,Yes,No,Black,Male,-88.331057,41.753725
+Pennsylvania hotel bar shooting,"State College, Pennsylvania",Other,2019-01-24,Thursday,1,2019,1,3,4,21,Unknown,Yes,White,Male,-77.839411,40.785142
+SunTrust bank shooting,"Sebring, Florida",Workplace,2019-01-23,Wednesday,1,2019,0,5,5,21,Yes,Yes,White,Male,-81.45847,27.471043
+Mercy Hospital shooting,"Chicago, Illinois",Workplace,2018-11-19,Monday,11,2018,0,3,3,32,Unknown,Unknown,Latino,Male,-87.622009,41.847667
+Thousand Oaks nightclub shooting,"Thousand Oaks, California",Other,2018-11-07,Wednesday,11,2018,22,12,34,28,Yes,Yes,Other/Unknown,Male,-118.874793,34.176946
+Tree of Life synagogue shooting,"Pittsburgh, Pennsylvania",Religious,2018-10-27,Saturday,10,2018,6,11,17,46,Unknown,Yes,White,Male,-79.921398,40.443898
+Rite Aid warehouse shooting,"Perryman, Maryland",Workplace,2018-09-20,Thursday,9,2018,3,3,6,26,Unknown,Yes,Black,Female,-76.208485,39.455658
+T&T Trucking shooting,"Bakersfield, California",Workplace,2018-09-12,Wednesday,9,2018,0,5,5,54,Unknown,Yes,Latino,Male,-118.916335,35.349388
+Fifth Third Center shooting,"Cincinnati, Ohio",Workplace,2018-09-06,Thursday,9,2018,2,3,5,29,Yes,Yes,Latino,Male,-84.511782,39.101981
+Capital Gazette shooting,"Annapolis, Maryland",Workplace,2018-06-28,Thursday,6,2018,2,5,7,38,Unknown,Yes,White,Male,-76.543657,38.994548
+Santa Fe High School shooting,"Santa Fe, Texas",School,2018-05-18,Friday,5,2018,13,10,23,17,Unknown,Unknown,White,Male,-95.141972,29.392825
+Waffle House shooting,"Nashville, Tennessee",Other,2018-04-22,Sunday,4,2018,4,4,8,29,Yes,Yes,White,Male,-86.616944,36.052521
+Yountville veterans home shooting,"Yountville, California",Workplace,2018-03-09,Friday,3,2018,0,3,3,36,Yes,Yes,Asian,Male,-122.366528,38.392496
+Marjory Stoneman Douglas High School shooting,"Parkland, Florida",School,2018-02-14,Wednesday,2,2018,17,17,34,19,Yes,Yes,White,Male,-80.269511,26.30483
+Pennsylvania carwash shooting,"Melcroft, Pennsylvania",Other,2018-01-28,Sunday,1,2018,1,4,5,28,Unknown,Unknown,White,Male,-79.389166,40.052151
+Rancho Tehama shooting spree,"Rancho Tehama, California",Other,2017-11-14,Tuesday,11,2017,10,5,15,44,Unknown,No,White,Male,-122.393089,40.018759
+Texas First Baptist Church massacre,"Sutherland Springs, Texas",Religious,2017-11-05,Sunday,11,2017,20,26,46,26,Yes,Yes,White,Male,-98.056488,29.273282
+Walmart shooting in suburban Denver,"Thornton, Colorado",Other,2017-11-01,Wednesday,11,2017,0,3,3,47,Unknown,Unknown,White,Male,-104.986132,39.876374
+Edgewood businees park shooting,"Edgewood, Maryland",Workplace,2017-10-18,Wednesday,10,2017,3,3,6,37,Unknown,No,Black,Male,-76.309988,39.452189
+Las Vegas Strip massacre,"Las Vegas, Nevada",Other,2017-10-01,Sunday,10,2017,546,58,604,64,Unknown,Yes,White,Male,-115.171544,36.095739
+San Francisco UPS shooting,"San Francisco, California",Workplace,2017-06-14,Wednesday,6,2017,2,3,5,38,Yes,No,Asian,Male,-122.406087,37.765947
+Pennsylvania supermarket shooting,"Tunkhannock, Pennsylvania",Workplace,2017-06-07,Wednesday,6,2017,0,3,3,24,Unknown,Unknown,White,Male,-75.94722,41.529546
+Florida awning manufacturer shooting,"Orlando, Florida",Workplace,2017-06-05,Monday,6,2017,0,5,5,45,Unknown,Unknown,Other/Unknown,Male,-81.294086,28.580295
+Rural Ohio nursing home shooting,"Kirkersville, Ohio",Workplace,2017-05-12,Friday,5,2017,0,3,3,43,Yes,Unknown,White,Male,-82.596508,39.959034
+Fresno downtown shooting,"Fresno, California",Other,2017-04-18,Tuesday,4,2017,0,3,3,39,Unknown,Unknown,Black,Male,-119.800319,36.746378
+Fort Lauderdale airport shooting,"Fort Lauderdale, Florida",Airport,2017-01-06,Friday,1,2017,6,5,11,26,Yes,Yes,Latino,Male,-80.143382,26.072751
+Cascade Mall shooting,"Burlington, Washington",Other,2016-09-23,Friday,9,2016,0,5,5,20,Yes,Unknown,Other/Unknown,Male,-122.337918,48.461367
+Baton Rouge police shooting,"Baton Rouge, Lousiana",Other,2016-07-17,Sunday,7,2016,3,3,6,29,Yes,Unknown,Black,Male,-91.081403,30.433601
+Dallas police shooting,"Dallas, Texas",Other,2016-07-07,Thursday,7,2016,11,5,16,25,Unknown,Yes,Black,Male,-96.8000082,32.7801052
+Orlando nightclub massacre,"Orlando, Florida",Other,2016-06-12,Sunday,6,2016,53,49,102,29,Unknown,Yes,Other/Unknown,Male,-81.376777,28.519718
+Excel Industries mass shooting,"Hesston, Kansas",Workplace,2016-02-25,Thursday,2,2016,14,3,17,38,Unknown,Yes,Black,Male,-97.425145,38.135992
+Kalamazoo shooting spree,"Kalamazoo County, Michigan",Other,2016-02-20,Saturday,2,2016,2,6,8,45,Unknown,Yes,White,Male,-85.674795,42.236689
+San Bernardino mass shooting,"San Bernardino, California","
+Workplace",2015-12-02,Wednesday,12,2015,21,14,35,28,Unknown,"
+Yes",Other/Unknown,Other/Unknown,-117.27789,34.075961
+Planned Parenthood clinic,"Colorado Springs, Colorado",Workplace,2015-11-27,Friday,11,2015,9,3,12,57,Unknown,Unknown,White,Male,-104.849057,38.881031
+Colorado Springs shooting rampage,"Colorado Springs, Colorado",Other,2015-10-31,Saturday,10,2015,0,3,3,33,Unknown,Yes,White,Male,-104.814251,38.83755
+Umpqua Community College shooting,"Roseburg, Oregon",School,2015-10-01,Thursday,10,2015,9,9,18,26,Unknown,Yes,Other/Unknown,Male,-123.333193,43.289538
+Chattanooga military recruitment center,"Chattanooga, Tennessee",Military,2015-07-16,Thursday,7,2015,2,5,7,24,Unknown,Unknown,Other/Unknown,Male,-85.311819,35.047157
+Charleston Church Shooting,"Charleston, South Carolina",Religious,2015-06-17,Wednesday,6,2015,1,9,10,21,Unknown,Yes,White,Male,-79.933143,32.788387
+Trestle Trail bridge shooting,"Menasha, Wisconsin",Other,2015-06-11,Thursday,6,2015,1,3,4,27,Yes,Yes,Latino,Male,-88.467541,44.204124
+Marysville-Pilchuck High School shooting,"Marysville, Washington",School,2014-10-24,Friday,10,2014,1,5,6,15,Unknown,No,Native American,Male,-122.176918,48.050824
+Isla Vista mass murder,"Santa Barbara, California",School,2014-05-23,Friday,5,2014,13,6,19,22,Yes,Yes,White,Male,-119.871440559809,34.436283
+Fort Hood shooting 2,"Fort Hood, Texas",Military,2014-04-03,Thursday,4,2014,12,3,15,34,Unknown,"
+Yes",Latino,Male,-97.777559,31.141716
+Alturas tribal shooting,"Alturas, California",Other,2014-02-20,Thursday,2,2014,2,4,6,44,Unknown,Unknown,Native American,Female,-120.542237,41.487104
+Washington Navy Yard shooting,"Washington, D.C.",Military,2013-09-16,Monday,9,2013,8,12,20,34,Yes,Yes,Black,Male,-76.99453,38.874981
+Hialeah apartment shooting,"Hialeah, Florida","Other
+",2013-07-26,Friday,7,2013,0,7,7,42,Unknown,Yes,Latino,Male,-80.311775,25.864338
+Santa Monica rampage,"Santa Monica, California","Other
+",2013-06-07,Friday,6,2013,3,6,9,23,Yes,Yes,White,Male,-118.494754033795,34.008617
+Pinewood Village Apartment shooting,"Federal Way, Washington","Other
+",2013-04-21,Sunday,4,2013,0,5,5,27,No,Yes,Black,Male,-122.3393665,47.3129607
+Mohawk Valley shootings,"Herkimer County, New York",Other,2013-03-13,Wednesday,3,2013,2,5,7,64,No,Yes,White,Male,-74.984891,43.045601
+Sandy Hook Elementary massacre,"Newtown, Connecticut",School,2012-12-14,Friday,12,2012,2,27,29,20,Yes,No,White,Male,-73.3114235802945,41.4123225
+Accent Signage Systems shooting,"Minneapolis, Minnesota",Workplace,2012-09-27,Thursday,9,2012,1,7,8,36,Yes,Yes,White,Male,-93.310408,44.977425
+Sikh temple shooting,"Oak Creek, Wisconsin",Religious,2012-08-05,Sunday,8,2012,3,7,10,40,Yes,Yes,White,Male,-87.8631362,42.8858503
+Aurora theater shooting,"Aurora, Colorado",Other,2012-07-20,Friday,7,2012,70,12,82,24,Yes,Yes,White,Male,-104.820594,39.706038
+Seattle cafe shooting,"Seattle, Washington",Other,2012-05-20,Sunday,5,2012,1,6,7,40,Yes,Yes,White,Male,-122.3300624,47.6038321
+Oikos University killings,"Oakland, California",School,2012-04-02,Monday,4,2012,3,7,10,43,Yes,Yes,Asian,Male,-122.2708166,37.8043808
+Su Jung Health Sauna shooting,"Norcross, Georgia",Other,2012-02-21,Tuesday,2,2012,0,5,5,59,Yes,Yes,Asian,Male,-84.2135309,33.9412127
+Seal Beach shooting,"Seal Beach, California",Other,2011-10-12,Wednesday,10,2011,1,8,9,42,Yes,Yes,White,Male,-118.1046356,33.741176
+IHOP shooting,"Carson City, Nevada",Other,2011-09-06,Tuesday,9,2011,7,5,12,32,Yes,Yes,Latino,Male,-119.7674034,39.1637984
+Tucson shooting,"Tucson, Arizona",Other,2011-01-08,Saturday,1,2011,13,6,19,22,Yes,Yes,White,Male,-110.975132,32.335941
+Hartford Beer Distributor shooting,"Manchester, Connecticut",Workplace,2010-08-03,Tuesday,8,2010,2,9,11,34,No,Yes,Black,Male,-72.570068,41.798764
+Coffee shop police killings,"Parkland, Washington",Other,2009-11-29,Sunday,11,2009,1,4,5,37,Yes,No,Black,Male,-122.467308,47.15277
+Fort Hood massacre,"Fort Hood, Texas",Military,2009-11-05,Thursday,11,2009,31,13,44,39,Unknown,Yes,Other/Unknown,Male,-97.783664,31.135557
+Binghamton shootings,"Binghamton, New York",Other,2009-04-03,Friday,4,2009,4,14,18,41,Yes,Yes,Asian,Male,-75.917723,42.099802
+Carthage nursing home shooting,"Carthage, North Carolina",Other,2009-03-29,Sunday,3,2009,3,8,11,45,Yes,Yes,White,Male,-79.414592,35.333434
+Atlantis Plastics shooting,"Henderson, Kentucky",Workplace,2008-06-25,Wednesday,6,2008,1,6,7,25,No,Yes,White,Male,-87.5573742,37.76721
+Northern Illinois University shooting,"DeKalb, Illinois",School,2008-02-14,Thursday,2,2008,21,5,26,27,Yes,Yes,White,Male,-88.7503647,41.9294736
+Kirkwood City Council shooting,"Kirkwood, Missouri",Other,2008-02-07,Thursday,2,2008,2,6,8,52,No,No,Black,Male,-90.40691,38.580093
+Westroads Mall shooting,"Omaha, Nebraska",Other,2007-12-05,Wednesday,12,2007,4,9,13,19,Yes,No,White,Male,-96.067495,41.265719
+Crandon shooting,"Crandon, Wisconsin",Other,2007-10-07,Sunday,10,2007,1,6,7,20,Unknown,Yes,White,Male,-88.9028922,45.5719072
+Virginia Tech massacre,"Blacksburg, Virginia",School,2007-04-16,Monday,4,2007,23,32,55,23,Yes,Yes,Asian,Male,-80.4139393,37.2295733
+Trolley Square shooting,"Salt Lake City, Utah",Other,2007-02-12,Monday,2,2007,4,6,10,18,Unknown,Unknown,White,Male,-111.89109,40.7606467
+Amish school shooting,"Lancaster County, Pennsylvania",School,2006-10-02,Monday,10,2006,5,6,11,32,No,Yes,White,Male,-76.0806,39.9589
+Capitol Hill massacre,"Seattle, Washington",Other,2006-03-25,Saturday,3,2006,2,7,9,28,No,Yes,White,Male,-122.3165,47.6229
+Goleta postal shootings,"Goleta, California",Workplace,2006-01-30,Monday,1,2006,0,8,8,44,Yes,Yes,White,Female,-119.866069,34.425571
+Red Lake massacre,"Red Lake, Minnesota",School,2005-03-21,Monday,3,2005,5,10,15,16,Yes,No,Native American,Male,-95.0169401,47.876346
+Living Church of God shooting,"Brookfield, Wisconsin",Religious,2005-03-12,Saturday,3,2005,4,7,11,44,Yes,Yes,White,Male,-88.1064787,43.0605671
+Damageplan show shooting,"Columbus, Ohio",Other,2004-12-08,Wednesday,12,2004,7,5,12,25,Yes,Yes,White,Male,-83.0007065,39.9622601
+Lockheed Martin shooting,"Meridian, Mississippi",Workplace,2003-07-08,Tuesday,7,2003,8,7,15,48,Yes,Yes,White,Male,-88.634539,32.410842
+Navistar shooting,"Melrose Park, Illinois",Workplace,2001-02-05,Monday,2,2001,4,5,9,66,No,Yes,Black,Male,-87.879908,41.908163
+Wakefield massacre,"Wakefield, Massachusetts",Workplace,2000-12-26,Tuesday,12,2000,0,7,7,42,Yes,Yes,White,Male,-71.075913,42.500429
+Hotel shooting,"Tampa, Florida",Workplace,1999-12-30,Thursday,12,1999,3,5,8,36,Yes,Yes,Latino,Male,-82.570586,27.966479
+Xerox killings,"Honolulu, Hawaii",Workplace,1999-11-02,Tuesday,11,1999,0,7,7,40,Yes,Yes,Asian,Male,-157.876462,21.320063
+Wedgwood Baptist Church shooting,"Fort Worth, Texas",Religious,1999-09-15,Wednesday,9,1999,7,8,15,47,Yes,Yes,White,Male,-97.384246,32.664511
+Atlanta day trading spree killings,"Atlanta, Georgia",Workplace,1999-07-29,Thursday,7,1999,13,9,22,44,Yes,Yes,White,Male,-84.377839,33.850116
+Columbine High School massacre,"Littleton, Colorado",School,1999-04-20,Tuesday,4,1999,24,13,37,17,Yes,No,White,Male,-105.074103,39.604034
+Thurston High School shooting,"Springfield, Oregon",School,1998-05-21,Thursday,5,1998,25,4,29,15,Yes,No,White,Male,-123.0220289,44.0462362
+Westside Middle School killings,"Jonesboro, Arkansas",School,1998-03-24,Tuesday,3,1998,10,5,15,11,No,No,White,Male,-90.66826059874,35.8209895
+Connecticut Lottery shooting,"Newington, Connecticut",Workplace,1998-03-06,Friday,3,1998,1,5,6,35,Yes,Yes,White,Male,-72.7298382724899,41.6856325
+Caltrans maintenance yard shooting,"Orange, California",Workplace,1997-12-18,Thursday,12,1997,2,5,7,41,No,Yes,Latino,Male,-117.8531119,33.7877944
+R.E. Phelon Company shooting,"Aiken, South Carolina",Workplace,1997-09-15,Monday,9,1997,3,4,7,43,No,No,Black,Male,-81.721952,33.5598586
+Fort Lauderdale revenge shooting,"Fort Lauderdale, Florida",Workplace,1996-02-09,Friday,2,1996,1,6,7,41,Yes,Yes,Black,Male,-80.104119,26.119269
+Walter Rossler Company massacre,"Corpus Christi, Texas",Workplace,1995-04-03,Monday,4,1995,0,6,6,28,No,Yes,Other/Unknown,Male,-97.548198,27.828025
+Air Force base shooting,"Fairchild Air Force Base, Washington",Military,1994-06-20,Monday,6,1994,23,5,28,20,Yes,Yes,White,Male,-117.648358734953,47.618644861959
+Chuck E. Cheese's killings,"Aurora, Colorado",Workplace,1993-12-14,Tuesday,12,1993,1,4,5,19,Unknown,Unknown,Black,Male,-104.844845,39.675599
+Long Island Rail Road massacre,"Garden City, New York",Other,1993-12-07,Tuesday,12,1993,19,6,25,35,Yes,Yes,Black,Male,-73.6342955,40.7267682
+Luigi's shooting,"Fayetteville, North Carolina",Other,1993-08-06,Friday,8,1993,8,4,12,22,No,Yes,White,Male,-78.8787058,35.0529931
+101 California Street shootings,"San Francisco, California",Other,1993-07-01,Thursday,7,1993,6,9,15,55,No,No,White,Male,-122.397973,37.792968
+Watkins Glen killings,"Watkins Glen, New York",Other,1992-10-15,Thursday,10,1992,0,5,5,50,Yes,Yes,White,Male,-76.8705777,42.3810555
+Lindhurst High School shooting,"Olivehurst, California",School,1992-05-01,Friday,5,1992,10,4,14,20,No,Yes,White,Male,-121.547576173493,39.078687605881
+Royal Oak postal shootings,"Royal Oak, Michigan",Workplace,1991-11-14,Thursday,11,1991,5,5,10,31,Yes,Yes,White,Male,-83.1446485,42.4894801
+University of Iowa shooting,"Iowa City, Iowa",School,1991-11-01,Friday,11,1991,1,6,7,28,Unknown,Yes,Asian,Male,-91.5302214,41.6606893
+Luby's massacre,"Killeen, Texas",Other,1991-10-16,Wednesday,10,1991,20,24,44,35,No,Yes,White,Male,-97.7277959,31.1171194
+GMAC massacre,"Jacksonville, Florida",Other,1990-06-18,Monday,6,1990,4,10,14,42,No,Yes,Black,Male,-81.655651,30.3321838
+Standard Gravure shooting,"Louisville, Kentucky",Workplace,1989-09-14,Thursday,9,1989,12,9,21,47,Yes,Yes,White,Male,-85.759407,38.2542376
+Stockton schoolyard shooting,"Stockton, California",School,1989-01-17,Tuesday,1,1989,29,6,35,26,Yes,Yes,White,Male,-121.2907796,37.9577016
+ESL shooting,"Sunnyvale, California",Workplace,1988-02-16,Tuesday,2,1988,4,7,11,39,Yes,Yes,White,Male,-122.0363496,37.3688301
+Shopping centers spree killings,"Palm Bay, Florida",Other,1987-04-23,Thursday,4,1987,14,6,20,59,Yes,Yes,White,Male,-80.6429695,28.0331886
+United States Postal Service shooting,"Edmond, Oklahoma",Workplace,1986-08-20,Wednesday,8,1986,6,15,21,44,Unknown,Yes,White,Male,-97.4293703650031,35.6672015
+San Ysidro McDonald's massacre,"San Ysidro, California",Other,1984-07-18,Wednesday,7,1984,19,22,41,41,Yes,Yes,White,Male,-117.0430813,32.5520013
+Dallas nightclub shooting,"Dallas, Texas",Other,1984-06-29,Friday,6,1984,1,6,7,39,Yes,No,White,Male,-96.838676,32.925166
+Welding shop shooting,"Miami, Florida",Other,1982-08-20,Friday,8,1982,3,8,11,51,Yes,Yes,White,Male,-80.226683,25.796491
